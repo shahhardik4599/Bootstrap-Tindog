@@ -74,10 +74,12 @@ p{
 }
 
 #testimonials{
-    padding: 7% 15%;
     background-color: #ff4c68;
     text-align: center;
     color: #fff;
+}
+#testimonial-carousel{
+    padding: 7% 15%;
 }
 .testimonial-image{
     width: 12%;
